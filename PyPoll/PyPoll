@@ -20,4 +20,3 @@ with open(mainPyPoll, "r") as csv_file:
     csv_header = next(csv_file)
 
     row_count = sum(1 for row in csv_file)
-
