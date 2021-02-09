@@ -1,3 +1,3 @@
 # python-challenge
-This is my homework assignment which is being submitted late. I requested and was granted an extension by Angelica Baraona. 
+This is my homework assignment which is being submitted late. 
 Thank you and enjoy!
